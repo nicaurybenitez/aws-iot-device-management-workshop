@@ -1,7 +1,7 @@
 ![AWS_IoT_Core.png](img/AWS_IoT_Core.png)
 
 <a id="Top"></a>
-## AWS IoT Device Management Workshop
+## AWS IoT Device Management Test
 This workshop will guide you through the features of [AWS IoT Device Management](https://aws.amazon.com/iot-device-management/).
 
 The workshop is designed to be conducted on an EC2 instance which will be provisioned through AWS CloudFormation. Amazon Linux is used as operating system and the standard user is named *ec2-user*. 
@@ -12,7 +12,7 @@ You will also create a Lambda function during the workshop and the code can be f
 
 For several exercises the aws command line interface (awscli) is used. It is installed and configured automatically on the EC2 Instance.
 
-## Workshop Agenda
+## Test Agenda
 
 * [Prerequisites](#Prerequisites)
 * [Launch an EC2 Instance with CloudFormation](#Launch_EC2_Instance_with_CloudFormation)
