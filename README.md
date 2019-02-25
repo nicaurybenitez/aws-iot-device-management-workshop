@@ -1,11 +1,11 @@
-## AWS IoT Device Management Workshop
+## AWS IoT Device Management  Test
 
 [AWS IoT Device Management](https://aws.amazon.com/iot-device-management/) makes it easy to securely onboard, organize, monitor, and remotely manage IoT devices at scale. With this workshop your will learn hands-on the features from AWS IoT Device Management like several onboarding options, jobs, fleet indexing, thing groups and fine grained logging.
 
 
-## Files/Directories for the Workshop
+## Files/Directories for the Test
 
-* [AWS\_IoT\_Device\_Management\_Workshop.md](AWS_IoT_Device_Management_Workshop.md): Workshop instructions.
+* [AWS\_IoT\_Device\_Management\_Workshop.md](AWS_IoT_Device_Management_Test.md): Workshop instructions.
 * bin, job-agent, lambda: Directories containing scripts that are copied onto an Amazon EC2 instance
 * cfn: Directory for CloudFormation template
 * dm-ws.tar: tar file that is used to bootstrap an EC2 instance
